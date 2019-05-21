@@ -15,5 +15,8 @@ public class Nuevo {
            System.out.println("Hola negro");
            
     }
+    public static void Matrices(){
+        System.out.println("Matrices");
+    }
  
 }
